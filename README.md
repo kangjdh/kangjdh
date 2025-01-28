@@ -7,8 +7,8 @@ Below is a compilation of how I have grown in the data science field, which incl
 
 ## Projects
 **Data Science Portfolio - (2024)**  
-This portfolio is a collection of my earliest data science works completed during my time as a student enrolled in the course <em>Introduction to Data Science</em> as an undergraduate student at <em>the University of Notre Dame</em>.
-
+This portfolio is a collection of my earliest data science works completed during my time as a student enrolled in the course <em>Introduction to Data Science</em> as an undergraduate student at <em>the University of Notre Dame</em>.  
+[KANG-Data-Science-Portfolio](https://github.com/kangjdh/KANG-Data-Science-Portfolio)
  
 ## Relevant Skills
 - **Technical Skills**:
