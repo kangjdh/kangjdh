@@ -1,7 +1,7 @@
 # Joyce Kang - Data Science Portfolio
-This site is a station for me to display both my genuine interest and deep love for **data science**.
+This site is a station for me, Joyce Kang, to display both my genuine interest and deep love for **data science**.
 
-Data science, which can loosely be defined as the collection and analysis of large amounts of data, is a mechanism that allows for a deeper understanding of how the world works, applicable in nearly every field. There are fewer things I love more than numbers and knowledge, thus the force I felt towards data science was irrestible. I plan on expanding this newfound love both within the academic scene and outside.  
+Data science, which can loosely be defined as the collection and analysis of large amounts of data, is a mechanism that allows for a deeper understanding of how the world works, applicable in nearly every field. There are fewer things I love more than numbers and knowledge, thus the force I felt towards data science was irrestible. I plan on expanding this newfound love both within the academic scene and outside. Throughout the first half of this year, I aim to become closer with the art of using various programs and their features to make numbers into meaningful reports by learning the capabilities of programming and deciphering what makes a presentation powerful.
 
 Below is a compilation of how I have grown in the data science field, which includes my projects, relevant skills, education, etc.
 
