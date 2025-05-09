@@ -13,10 +13,10 @@ This portfolio is a collection of my earliest data science works completed durin
  
 ## Relevant Skills
 - **Technical Skills**:
-    - Python
-    - SPSS
-    - Stata
-    - R
+    - Python  <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="image" width="17"/>
+    - SPSS <image src="https://upload.wikimedia.org/wikipedia/commons/e/eb/SPSS.png" width="30">
+    - Stata <image src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png" width='30'>
+    - R  <image src='https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg' width='22'>
  
 - **Soft Skills**:
     - project management
